@@ -3,3 +3,5 @@
 
 // applying jumpScript to all players here.
 [] spawn DEV_fnc_jumpScript;
+
+// dick are nice
