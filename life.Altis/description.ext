@@ -1,0 +1,14 @@
+enableDebugConsole[] = {"76561198090775697","76561198160493981"};
+
+class CfgFunctions
+{
+	#include "Functions.h"
+};
+
+class CfgSounds {
+	class beamed {
+        name = "beamed";
+        sound[] = {"\sounds\beamed.ogg", 8, 1};
+        titles[] = {};
+    };
+};
