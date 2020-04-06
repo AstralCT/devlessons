@@ -13,6 +13,9 @@ examplePublicVariable = "Hello!";
 _examplePrivateVar = true;
 // This is an example of a PRIVATE variable that contains a boolean(true or false)!
 
+_examplePrivateVariable = [15,23,194,192,38];
+// This is an example of a PRIVATE variable that contains an array full of numbers!
+
 // Now if I wanted to reference these variables, I can simply type them and it will return the value.
 
 hint examplePublicVariable;
